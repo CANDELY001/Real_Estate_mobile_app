@@ -21,6 +21,8 @@ import { useAppwrite } from "@/lib/useAppwrite";
 import { useGlobalContext } from "@/lib/global-provider";
 import { getLatestProperties, getProperties } from "@/lib/appwrite";
 import images from "@/constants/images";
+import { Button } from "@react-navigation/elements";
+import seed from "@/lib/seed";
 
 const Home = () => {
   const { user } = useGlobalContext();
