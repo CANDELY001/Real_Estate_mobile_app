@@ -190,7 +190,7 @@ const Property = () => {
             )}
           </View>
 
-          {property?.gallery.length > 0 && (
+          {property?.gallery && property?.gallery.length > 0 && (
             <View className="mt-7">
               <Text className="text-black-300 text-xl font-rubik-bold">
                 Gallery
