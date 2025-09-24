@@ -1,5 +1,11 @@
 # Welcome to your Expo app 👋
 
+<img width="150" height="332" alt="Auth" src="https://github.com/user-attachments/assets/6ca5a578-4625-41b2-9f49-1c020121ed86" /> <img width="150" height="550" alt="Details" src="https://github.com/user-attachments/assets/d8d58498-59b3-414d-bdde-8ca1aef36798" /> <img width="150" height="459" alt="Home" src="https://github.com/user-attachments/assets/9ed26cc5-5317-4a00-950c-35743a971c5d" /> <img width="150" height="332" alt="Search-v1 (1)" src="https://github.com/user-attachments/assets/01c2e96c-6737-404e-bd8d-e3fc69676007" />
+
+
+
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
